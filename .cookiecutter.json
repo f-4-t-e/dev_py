@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/opt",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "f4te",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "f-4-t-e@mailfence.com",
+  "friendly_name": "Dev_Py",
+  "github_user": "f-4-t-e",
+  "license": "Apache-2.0",
+  "package_name": "dev_py",
+  "project_name": "dev_py",
+  "version": "0.0.0"
+}
